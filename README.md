@@ -1,6 +1,7 @@
 # The Park - A Text-Based Adventure Game
 
 Welcome to "The Park", a text-based adventure game where you explore a mysterious park, face dangerous encounters, and interact with wildlife. Navigate through the park using simple controls, make decisions that will affect your survival, and discover hidden items along the way.
+This was my first game made in C++. I hope to make more games in the future.
 *<i>This game is still pretty bare-bones. Feel free to add different events at different time markers or locations, or something to do with the key. Currently, the only 'win' condition is reuniting a duckling with its mother.</i>
 
 ## How to Play
